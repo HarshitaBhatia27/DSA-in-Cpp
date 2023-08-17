@@ -1,1 +1,1 @@
-This is a DSA in cpp code repository. Codes of mostly all the algorithms and questions are in this repository. 
+Welcome to the repository of Data Structures in C++. Here you will find various questions along with there codes.
